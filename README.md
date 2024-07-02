@@ -43,4 +43,9 @@ To test our project, follow these steps:
 
 If you have any questions or encounter issues, please don't hesitate to reach out to the authors for assistance. We hope you find our project informative and insightful.
 
+## Authors
+
+This project was led by Youssef Belghmi, Hamza Morchid, and Ilias Merigh, Master's students in Data Science at EPFL. It was conducted as part of an introductory project for the Machine Learning course (CS-433).
+
+If you have any questions or encounter issues, please don't hesitate to reach out to the authors for assistance. We hope you find our project informative and insightful.
 
